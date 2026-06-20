@@ -13,6 +13,8 @@ English | [繁體中文](#繁體中文)
 
 ## English
 
+![LAN Name Resolver Server English](assets/screenshots/LANNameResolver-promo-en.png)
+
 ## Version History
 
 ### v1.0
@@ -219,6 +221,8 @@ LANNameResolver.exe.sha256
 ---
 
 # 繁體中文
+
+![LAN Name Resolver Server English](assets/screenshots/LANNameResolver-promo-tw.png)
 
 ## 版本紀錄
 
